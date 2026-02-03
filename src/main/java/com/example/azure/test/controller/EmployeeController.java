@@ -14,7 +14,7 @@ public class EmployeeController {
 
     @GetMapping("/test")
     public String test() {
-        return "Test from Spring boot";
+        return "Test from Azure";
     }
 
    }
